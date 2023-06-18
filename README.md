@@ -1,3 +1,19 @@
+# Things to Learn
+
+1. Built-in Data Types
+- Text Type:	str
+- Numeric Types:	int, float
+- Sequence Types:	list, tuple, range
+- Mapping Type:	dict
+- Set Types:	set, frozenset
+- Boolean Type:	bool
+- Binary Types:	bytes
+- None Type:	NoneType
+2. For loops
+3. If statements
+4. Functions
+
+
 ## Challenge #1
 
 1. Read the CSV and print it out to the terminal
